@@ -1,3 +1,6 @@
 [submodule "NETLibMVVM"]
 	path = NETLibMVVM
 	url = https://github.com/igorbock/NETLibMVVM
+[submodule "NETFrameworkMVVM"]
+	path = NETFrameworkMVVM
+	url = https://github.com/igorbock/NETFrameworkMVVM
