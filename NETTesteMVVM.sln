@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NETTesteMVVM", "NETTesteMVV
 EndProject
 Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "VisualBasicLib", "NETLibMVVM\VisualBasicLib\VisualBasicLib.vbproj", "{258E5BF8-7510-4065-A48D-A35C72B699C5}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WindowsFormsCRUD", "NETFrameworkMVVM\WindowsFormsCRUD\WindowsFormsCRUD.vbproj", "{338C579A-F77C-4224-934F-69819C718F07}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{258E5BF8-7510-4065-A48D-A35C72B699C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{258E5BF8-7510-4065-A48D-A35C72B699C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{258E5BF8-7510-4065-A48D-A35C72B699C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{338C579A-F77C-4224-934F-69819C718F07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{338C579A-F77C-4224-934F-69819C718F07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{338C579A-F77C-4224-934F-69819C718F07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{338C579A-F77C-4224-934F-69819C718F07}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
